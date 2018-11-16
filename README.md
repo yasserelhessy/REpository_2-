@@ -11,3 +11,4 @@ How about now? Sofar I am not able to triger a build from github to jenkins.
 I don't know what am I doing wrong.
 But it still don't work.
 I still no able to invoc Jenkins via github.
+Today is Nov. 15 2018. i couldn't communicate with the server yesterday. but not I made some changes, hopfully it will work.
